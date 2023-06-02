@@ -1,0 +1,21 @@
+*{
+    background-color: gray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+    text-align: center;
+    margin: 50px;
+}
+
+#titulo_principal{
+    color: darkmagenta;
+}
+
+#sub_titulo{
+    color:darkorchid;
+}
+
+p{
+    text-align: justify;
+    color: darkblue;
+    
+
+}
