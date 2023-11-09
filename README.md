@@ -1,5 +1,5 @@
 # Curriculum_v
-Projeto de desenvolvimento | Curriculum, vou usar o projeto como base para implementar muita coisa que for aprender.
+Projeto de desenvolvimento | Curriculum, vou usar o projeto como base para implementar muitas coisas que irei aprender.
 
 -- Aqui é um projeto que quero incorporar o máximo de funcionalidades possíveis, está é a primeira versão.
 
